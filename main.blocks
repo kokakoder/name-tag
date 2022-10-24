@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="U#!?-52q7PVNAdPq9U.E" x="513" y="-79"></block><block type="pxt-on-start" id="]aqu@K*|w1SDFcl$3BL/" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="{^sSO,4i=u|CsZ;==SZk"><value name="text"><shadow type="text" id="]*B+sTF%Xyt.KeLW_TA3"><field name="TEXT">Hello!</field></shadow></value><next><block type="device_print_message" id="vV)mOW_0`q0SoH(!(V^t"><value name="text"><shadow type="text" id="=d5?R@)K1|VK9Qahx3MJ"><field name="TEXT">my name is sean </field></shadow></value><next><block type="device_print_message" id="#J!;yF5T5rF4Bi$^ScQo"><value name="text"><shadow type="text" id="P#O!Q!j01:-uWRLybV}a"><field name="TEXT">how old are you</field></shadow></value><next><block type="basic_show_icon" id="mdf-~m3XDqN1NRKQlZ3="><field name="i">IconNames.Happy</field><next><block type="device_print_message" id="flenE:az$,(p:cx(hy;D"><value name="text"><shadow type="text" id="i@F7])U#~KGgr)WR[Mt#"><field name="TEXT">what is your name</field></shadow></value><next><block type="device_print_message" id="_)ieQid!lCn]D9mPecvF"><value name="text"><shadow type="text" id="}3/V0jY3e/bnDHY~2K,T"><field name="TEXT">do you want to be friends</field></shadow></value><next><block type="device_clear_display" id="sQa7=iQ2.;L.pUG)@,r{"><next><block type="device_show_leds" id="-B:Ex/rP?=X%Fugd52+#"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        . # # # . 
+        . # # # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="y[!9nt`Tt,*^BPOVyy_a"><field name="LEDS">`
+        . # . # . 
+        . # # # . 
+        . # # # . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="$Y}PRX(dLP6Pj/DstkX,"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . # . # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="L[O$$]NdI}=`GV6z}om2"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="[m%|:bWFmXpjsyUrABpJ"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="rGjk%d!srg!K/a{{tBtO"><next><block type="device_print_message" id="5Er1)6d8_%A0CzJeiT;p"><value name="text"><shadow type="text" id="%Xna%kozFT4|2pl32Hc:"><field name="TEXT">do you want to have a playdate</field></shadow></value><next><block type="device_print_message" id="^UD^E8++2fiy,f|CP[W8"><value name="text"><shadow type="text" id="FGw;bB[SK3giEJ;1bG8r"><field name="TEXT">hi when is your bithday</field></shadow></value><next><block type="device_print_message" id="8?BnW[ucz2Tguu3_#SJq"><value name="text"><shadow type="text" id="mjkBhYceujRRDq%OFuT)"><field name="TEXT">can we go to adrenalin together</field></shadow></value><next><block type="device_print_message" id="3hM5CP9SX9Aeo_S#Cj4I"><value name="text"><shadow type="text" id="H[e*M=%5Z6vw$DOX?`4!"><field name="TEXT">I am very exited</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_number" id="~.S9IKKdMqQ1e%Q*7Fq+" disabled="true" x="-234" y="1108"><value name="number"><shadow type="math_number" id="?w${VN3XQ-`z_P6Qsu5+" disabled="true"><field name="NUM">0</field></shadow></value></block></xml>
